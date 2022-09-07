@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/deploy
+deploy.so
+deploy.dylib
+deploy.dll
+deploy.a
+deploy.lib
+deploy-test-*
+*.exe
+*.o
+*.obj
+*.lst

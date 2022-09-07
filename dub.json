@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Max Haughton"
+	],
+	"copyright": "Copyright © 2022, Max Haughton",
+	"dependencies": {
+		"vibe-d": "~>0.9"
+	},
+	"description": "A simple vibe.d server application.",
+	"license": "proprietary",
+	"name": "deploy",
+	"dflags-ldc": ["-static"]
+}
